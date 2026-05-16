@@ -1,0 +1,24 @@
+body {
+  font-family:
+    bradley hand,
+    cursive;
+  background-image: url("imgs/3137882.jpg");
+}
+.continer {
+  display: grid;
+  grid: auto / auto auto auto;
+}
+.st {
+  font-size: 21px;
+}
+.con {
+  list-style-type: none;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  display: flex;
+  justify-content: space-around;
+}
